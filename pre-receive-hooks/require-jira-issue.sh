@@ -11,9 +11,7 @@
 #
 # [1] https://help.github.com/en/enterprise/user/articles/working-with-pre-receive-hooks
 #
-
 set -e
-
 zero_commit='0000000000000000000000000000000000000000'
 msg_regex='[JIRA\-[0-9]+\]'
 
